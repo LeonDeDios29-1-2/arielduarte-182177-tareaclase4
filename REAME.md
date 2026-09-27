@@ -40,3 +40,5 @@ Se agregó una imágen
 Se agregó un Vídeo 
 Se agregó Redes en el Footer
 Se acomodó algunas lineas
+Se agregó el ecomerce con radio y select
+Se arreglo un link que envia hacia el footer
