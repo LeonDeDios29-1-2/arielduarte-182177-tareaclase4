@@ -35,3 +35,6 @@ Se creo el DOCKTIPE
 Se agregó links navegables en la WEB
 Se agregó texto de la historia
 Se agregó subcripción a talleres 
+Se agregó un area de texto
+Se agregó una imágen
+Se agregó un Vídeo 
