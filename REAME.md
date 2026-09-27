@@ -38,3 +38,5 @@ Se agregó subcripción a talleres
 Se agregó un area de texto
 Se agregó una imágen
 Se agregó un Vídeo 
+Se agregó Redes en el Footer
+Se acomodó algunas lineas
